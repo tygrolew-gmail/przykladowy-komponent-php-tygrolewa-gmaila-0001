@@ -1,7 +1,7 @@
 <?php
 namespace TygrolewGmail\Zawartosc\Tworcy;
 
-interface TekstowyTworcaStopekZautorem implements ITworcaStopek
+class TekstowyTworcaStopekZautorem implements ITworcaStopek
 {
   private $autor;
   private $stopka;
