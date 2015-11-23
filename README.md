@@ -1,1 +1,2 @@
-Przykładowy projekt 
+Przykładowy projekt
+===================
