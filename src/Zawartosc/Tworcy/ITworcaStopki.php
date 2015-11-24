@@ -1,7 +1,7 @@
 <?php
 namespace TygrolewGmail\Zawartosc\Tworcy;
 
-interface ITworcaStopek
+interface ITworcaStopki
 {
   public function getStopka();
 }
